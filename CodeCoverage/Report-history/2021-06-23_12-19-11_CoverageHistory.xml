@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<coverage version="1.0" date="2021-06-23_12-19-11" tag="">
+  <assembly name="HealthScriptAssembly">
+    <class name="Health" coveredlines="18" coverablelines="18" totallines="44" coveredbranches="0" totalbranches="0" />
+  </assembly>
+  <assembly name="Tests">
+    <class name="TestHealth" coveredlines="43" coverablelines="43" totallines="91" coveredbranches="0" totalbranches="0" />
+  </assembly>
+</coverage>

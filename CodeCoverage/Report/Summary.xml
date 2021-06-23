@@ -1,29 +1,25 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <CoverageReport scope="Summary">
   <Summary>
-    <Generatedon>17/08/2020 - 15:57:38</Generatedon>
-    <Parser>MultiReportParser (3x OpenCoverParser)</Parser>
+    <Generatedon>23/06/2021 - 12:19:11</Generatedon>
+    <Parser>OpenCoverParser</Parser>
     <Assemblies>2</Assemblies>
-    <Classes>6</Classes>
-    <Files>6</Files>
-    <Coveredlines>141</Coveredlines>
-    <Uncoveredlines>12</Uncoveredlines>
-    <Coverablelines>153</Coverablelines>
-    <Totallines>342</Totallines>
-    <Linecoverage>92.1</Linecoverage>
+    <Classes>2</Classes>
+    <Files>2</Files>
+    <Coveredlines>61</Coveredlines>
+    <Uncoveredlines>0</Uncoveredlines>
+    <Coverablelines>61</Coverablelines>
+    <Totallines>135</Totallines>
+    <Linecoverage>100</Linecoverage>
     <Coveredbranches>0</Coveredbranches>
     <Totalbranches>0</Totalbranches>
   </Summary>
   <Coverage>
-    <Assembly name="PlayerAssembl" classes="4" coverage="83.8" coveredlines="57" coverablelines="68" totallines="139" branchcoverage="" coveredbranches="0" totalbranches="0">
-      <Class name="HealthBarDisplay" coverage="100" coveredlines="9" coverablelines="9" totallines="24" branchcoverage="" coveredbranches="0" totalbranches="0" />
-      <Class name="HealthChangeLogger" coverage="72.7" coveredlines="8" coverablelines="11" totallines="23" branchcoverage="" coveredbranches="0" totalbranches="0" />
-      <Class name="Player" coverage="90.6" coveredlines="29" coverablelines="32" totallines="60" branchcoverage="" coveredbranches="0" totalbranches="0" />
-      <Class name="PlayerManager" coverage="68.7" coveredlines="11" coverablelines="16" totallines="32" branchcoverage="" coveredbranches="0" totalbranches="0" />
+    <Assembly name="HealthScriptAssembly" classes="1" coverage="100" coveredlines="18" coverablelines="18" totallines="44" branchcoverage="" coveredbranches="0" totalbranches="0">
+      <Class name="Health" coverage="100" coveredlines="18" coverablelines="18" totallines="44" branchcoverage="" coveredbranches="0" totalbranches="0" />
     </Assembly>
-    <Assembly name="Tests" classes="2" coverage="98.8" coveredlines="84" coverablelines="85" totallines="203" branchcoverage="" coveredbranches="0" totalbranches="0">
-      <Class name="PlayerPlayModeTest" coverage="100" coveredlines="15" coverablelines="15" totallines="46" branchcoverage="" coveredbranches="0" totalbranches="0" />
-      <Class name="PlayerUnitTest" coverage="98.5" coveredlines="69" coverablelines="70" totallines="157" branchcoverage="" coveredbranches="0" totalbranches="0" />
+    <Assembly name="Tests" classes="1" coverage="100" coveredlines="43" coverablelines="43" totallines="91" branchcoverage="" coveredbranches="0" totalbranches="0">
+      <Class name="TestHealth" coverage="100" coveredlines="43" coverablelines="43" totallines="91" branchcoverage="" coveredbranches="0" totalbranches="0" />
     </Assembly>
   </Coverage>
 </CoverageReport>
